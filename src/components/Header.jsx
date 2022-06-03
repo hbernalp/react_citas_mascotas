@@ -4,7 +4,7 @@ function Header() {// function Header({numeros,isAdmin}) Destructuring para trae
     //console.log(isAdmin) //Mostrando los prop por consola
     return (
         <h1 className="font-black text-5xl text-center md:w-2/3 mx-auto">
-            Seguimiento Pacientes {""} 
+            Seguimiento de Mascotas {""} 
             <span className="text-indigo-700">Veterinaria</span>
         </h1>
     )
